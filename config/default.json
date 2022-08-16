@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Pavi123:Pavi123@cluster0.ed8jt.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mySecrettoken",
+    "githubClientId":"774075beebf28cd73610",
+    "githubSecret":"ef7b6120a4175749dc6c7b584cf32da52d890746"
+}
